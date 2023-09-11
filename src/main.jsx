@@ -1,3 +1,4 @@
+import "chartist/dist/index.css";
 import "./index.css";
 
 import {
